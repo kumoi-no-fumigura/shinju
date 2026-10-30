@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shinju",
  "yomi": "しんじゅえいそう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "戦国時代",
+  "author": "未詳",
+  "desc": "永禄年間に駿河に住んだ禅僧の詠を集めた詠藻で、三条西実澄（実枝）が永禄5年に序を書いている。奥書は実澄の家集とする説を疑わしいとし、作者はなお考えるべきだと記す。"
+ },
  "editions": [
   {
    "pid": "936505",
